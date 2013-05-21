@@ -5,7 +5,7 @@ tagline: Boltz Systems is born
 ---
 {% include JB/setup %}
 
-After working for quite some time in icognito mode, we have decided to finally 
+After working for quite some time in incognito mode, we have decided to finally 
 officially launch our ***Boltz Systems Ltc.*** corporate web page.
 
 Over the next several weeks, expect some updates about our progress in the
